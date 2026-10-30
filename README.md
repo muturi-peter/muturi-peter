@@ -68,29 +68,4 @@ I'm open to learning opportunities, collaboration, and junior Python development
 
 ---
 
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=name&show_icons=true&theme=tokyonight&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=name&layout=compact&theme=tokyonight"
-    alt="Top Programming Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=name&theme=tokyonight"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
 ⭐ Thanks for visiting my profile!
